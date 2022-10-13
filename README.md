@@ -8,19 +8,41 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - letpub：https://www.letpub.com.cn/index.php?page=journalapp
 - CCFrank：在dblp和Google学术的搜索结果中显示中国计算机学会CCF推荐的国际会议和期刊排名
 - SCI分区查询：https://www.letpub.com.cn/index.php?journalid=2011&page=journalapp&view=detail
+- 四大顶会统计：https://www.s3.eurecom.fr/~balzarot/notes/top4_2018/authors_all_conf.html
+- 学术关系查询：https://www.semanticscholar.org/
 
 **常用工具：**
 - 画图图标：https://www.iconfont.cn/
 - 矢量图转换：https://onlineconvertfree.com/zh/convert-format/png-to-ai/
+- 矢量图转换：https://cn.office-converter.com/png-to-eps
+- bmeps -c Figure-1.png Figure-1.eps 
 - LaTeX绘制表格：https://www.latex-tables.com/ （Excel绘制表格粘贴生成LaTex）
 
 
 
-**安全团队介绍：**
-- NISL@THU：http://netsec.ccert.edu.cn/chs/
+**安全团队介绍（国外）：**
+- Dawn Song：https://people.eecs.berkeley.edu/~dawnsong/
+- XiaoFeng Wang：https://homes.luddy.indiana.edu/xw7/
+- Giovanni Vigna：https://sites.cs.ucsb.edu/~vigna/
+- Peng Liu：https://s2.ist.psu.edu/pliu/
+- Heng Yin：https://www.cs.ucr.edu/~heng/
+- Jiang Ming：https://ranger.uta.edu/~ming/
+- Luyi Xing：https://www.xing-luyi.com/
+- Zhiyun Qian：https://www.cs.ucr.edu/~zhiyunq/
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
+
+**安全团队介绍（国内）：**
+- NISL@THU：http://netsec.ccert.edu.cn/chs/
+- NESA-lab：https://nesa.zju.edu.cn/
 - 王骞教授：http://nisplab.whu.edu.cn/
+- 唐杰教授：http://keg.cs.tsinghua.edu.cn/jietang/ （清华大学，ACM Fellow/IEEE Fellow）
 - 何德彪教授：http://blockchain.whu.edu.cn
+- 周亚金教授：https://yajin.org/
+- 王志波教授：https://person.zju.edu.cn/zhibowang#951076
+- 李琦老师：http://netsec.ccert.edu.cn/chs/people/qli/
+- GoSSIP(上交)：https://github.com/GoSSIP-SJTU
+- 学术安全圈(川大)：https://secdr.org/ | https://chenghuang.org/
+- InforSec：http://www.inforsec.org/wp/?page_id=309
 
 
 **安全学术大佬博客：**
@@ -38,12 +60,40 @@ https://github.com/mstfknn/malware-sample-library
 - **IDS** <br />
 NSL-KDD：https://www.unb.ca/cic/datasets/nsl.html
 - **Scripts**
+- **溯源图 DARPA TC** <br />
+https://github.com/darpa-i2o/Transparent-Computing <br />
+https://drive.google.com/drive/folders/1QlbUFWAGq3Hpl8wVdzOdIoZLFxkII4EK <br />
+https://drive.google.com/drive/folders/1okt4AYElyBohW4XiOBqmsvjwXsnUjLVf <br />
+https://github.com/jun-zeng/Audit-log-analysis <br />
 
 
+**安全经典综述：**<br />
+- `Malware Detection | Anomaly Detection` <br />
+[1] [A Survey on Malware Detection Using Data Mining Techniques](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2017] <br />
+[2] [A Survey of Android Malware Detection with Deep Neural Models](https://dl.acm.org/doi/pdf/10.1145/3417978) [ACM Computing Surveys 2017] <br />
+[3] [Dynamic Malware Analysis in the Modern Era - A State of the Art Survey](https://dl.acm.org/doi/pdf/10.1145/3329786) [ACM Computing Surveys 2020]  <br />
+[4] [Deep learning-based anomaly detection in cyber-physical systems: Progress and opportunities](https://dl.acm.org/doi/pdf/10.1145/3453155) [ACM Computing Surveys 2021] <br />
+[5] [A Survey on Data-driven Network Intrusion Detection](https://dl.acm.org/doi/pdf/10.1145/3472753) [ACM Computing Surveys 2021] <br />
+
+- `APT` <br />
+[1] [APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 2020] <br />
+[2] [Threat detection and investigation with system-level provenance graphs: A survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061) [Computers & Security 2021] <br />
+[3] [Machine Learning-Enabled IoT Security: Open Issues and Challenges Under Advanced Persistent Threats](https://arxiv.org/ftp/arxiv/papers/2204/2204.03433.pdf) [ACM Computing Surveys 2022] <br />
+
+- `Vulnerability` <br />
+[1] [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses](https://dl.acm.org/doi/pdf/10.1145/3391195) [ACM Computing Surveys 2021] <br />
+[2] [Android Source Code Vulnerability Detection: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3556974) [ACM Computing Surveys 2022] <br />
+
+- `Other` <br />
+[1] [Malware Dynamic Analysis Evasion Techniques: A Survey](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2020] <br />
+[2] [Text Mining in Cybersecurity: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3462477) [ACM Computing Surveys 2022]  <br />
+[3] [When Machine Learning Meets Privacy: A Survey and Outlook](https://dl.acm.org/doi/pdf/10.1145/3436755) [ACM Computing Surveys 2022]  <br />
+
+- CSUR搜索：https://dl.acm.org/journal/csur
 
 **其他学习：**
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
-
+- APT论文集合（作者）：https://github.com/eastmountyxz/APT-ProvenanceGraph
 
 ---
 
@@ -341,4 +391,4 @@ TransD：Knowledge Graph Embedding via Dynamic Mapping Matrix <br />
 
 
 
-By:Eastmount 2021-03-26
+By:Eastmount 2022-09-26
